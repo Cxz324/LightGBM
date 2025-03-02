@@ -1,4 +1,4 @@
-<img src=https://github.com/microsoft/LightGBM/blob/master/docs/logo/LightGBM_logo_black_text.svg width=300 />
+Process completed with exit code 1.<img src=https://github.com/microsoft/LightGBM/blob/master/docs/logo/LightGBM_logo_black_text.svg width=300 />
 
 Light Gradient Boosting Machine
 ===============================
